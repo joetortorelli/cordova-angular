@@ -6,7 +6,7 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "dist",
+      "outDir": "cordova-angular/www",
       "assets": [
         "assets",
         "favicon.ico"
